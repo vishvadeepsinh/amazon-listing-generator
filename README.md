@@ -1,5 +1,5 @@
 # Amazon Listing Generator
-
+> Built while working at an e-commerce agency to automate Amazon product listing creation for sellers. Reduced manual content creation time significantly.
 An AI-powered Google Sheets tool that auto-generates optimized Amazon product listings using the Claude API.
 
 ## Features
